@@ -1,7 +1,11 @@
 # MarchingBandFieldEditor
+If you do now already have Java installed, then you can install it here: 
+https://www.java.com/en/download/
+
+Java is required for this application to run.
 
 This is a editor to allow user to create their very own, unique field shows.
-I have not included the application for windows64 because it is simply too big for me to upload.
+I have not included the JavaRuntimeEnvironment for windows64 because it is simply too big for me to upload.
 One important thing to note is that the program requires the user to manually save the current state of the sets. This is done by pressing s.
 
 Please email me if there are ANY bugs and I will update the source code as fast as possible.
