@@ -26,6 +26,9 @@ There are a couple of key inputs in order to use this program. They are listed a
   
   p -- makePhoto
     -> when you press p the program will make a .png image inside of your 'SHOWNAME'+Pictures folder
+    
+  r -- loadBeats
+    -> Pressing this letter, it will load the sets from the previous set's walking position onto the current set.
 
 In a addition to this, users can do the following:
 
